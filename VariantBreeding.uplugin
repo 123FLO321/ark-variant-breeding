@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "A6535DB14EDBB6C2A5FB8A8858AE1424",
+	"FriendlyName": "Variant Breeding",
+	"Description": "Enables variant breeding for all Dinos&cf_ugcID=1221524",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.curseforge.com/ark-survival-ascended/mods/variant-breeding",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
