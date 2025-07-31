@@ -38,7 +38,7 @@ Separate multiple paths with a comma or semicolon.
 Default: ``
 ```ini
 [VariantBreeding]
-DinoBlocks="Dino1_Character_BP_C,Dino2_Character_BP_C"
+ExcludeDinos="Dino1_Character_BP_C,Dino2_Character_BP_C"
 ```
 
 Discord: https://discord.com/invite/K4a4DvZak5
